@@ -8,7 +8,7 @@ Primary Skills:
 Secondary Skills:
 1.Hibernate
 2.Servlets/JSP
-3.GIT/Postman/SVN/
+3.GIT/Postman/SVN/MAVEN
 4.RestFul Services
 5.Splunk
 6.Automation Anywhere
@@ -16,5 +16,9 @@ Secondary Skills:
 8.BatchScripts & Powershell
 
 Learn Now Necessary:
-1.Azure Cloud
+Azure Cloud
+Docker & Kubernates
+DevOps 
+GenAI
+Python programming
 
