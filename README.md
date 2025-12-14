@@ -7,8 +7,7 @@ Primary Skills:
 
 Learn Now Necessary:
 Azure Cloud
-Docker & Kubernates
-DevOps 
+Docker & Kubernates 
 GenAI
 Python programming
 
