@@ -5,6 +5,13 @@ Primary Skills:
 2.Spring,Spring Boot, Microservices
 3.Oracle SQL/PL SQL
 
+Learn Now Necessary:
+Azure Cloud
+Docker & Kubernates
+DevOps 
+GenAI
+Python programming
+
 Secondary Skills:
 1.Hibernate
 2.Servlets/JSP
@@ -15,10 +22,5 @@ Secondary Skills:
 7.New Relic,App Dynamics
 8.BatchScripts & Powershell
 
-Learn Now Necessary:
-Azure Cloud
-Docker & Kubernates
-DevOps 
-GenAI
-Python programming
+
 
